@@ -1,0 +1,1 @@
+Na primeira aula da disciplina fomos introduzidos ao plano de aulas e ao plano de ensino. Também fizemos uma dinâmica de apresentação em que tivemos de dizer nome, experiência na área, expectativas e hobbies. Por fim, fomos introduzidos ao conceito de versionamento e deploy
